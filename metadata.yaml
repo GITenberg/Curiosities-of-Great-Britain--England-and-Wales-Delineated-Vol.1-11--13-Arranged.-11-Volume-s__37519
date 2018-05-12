@@ -1,0 +1,30 @@
+_repo: Curiosities-of-Great-Britain--England-and-Wales-Delineated-Vol.1-11--13-Arranged.-11-Volume-s__37519
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Burnett, William
+    gutenberg_agent_id: '38894'
+    url: http://www.gutenberg.org/2009/agents/38894
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dugdale, Thomas
+    gutenberg_agent_id: '44563'
+    url: http://www.gutenberg.org/2009/agents/44563
+description: ''
+gutenberg_issued: '2011-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Gazetteers'
+- !lcc 'DA'
+title: "Curiosities of Great Britain: England and Wales Delineated Vol.1-11\r\nHistorical,\
+  \ Entertaining & Commercial; Alphabetically Arranged. 11 Volume set."
+url: http://www.gutenberg.org/ebooks/37519
