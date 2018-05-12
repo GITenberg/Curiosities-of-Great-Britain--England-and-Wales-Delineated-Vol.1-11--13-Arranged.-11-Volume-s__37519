@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '44563'
     url: http://www.gutenberg.org/2009/agents/44563
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37519#Curiosities-of-Great-Britain--England-and-Wales-Delineated-Vol.1-11--13-Arranged.-11-Volume-s_
 gutenberg_issued: '2011-09-24'
 gutenberg_type: Text
 identifiers:
